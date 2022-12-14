@@ -13,6 +13,6 @@
 ## 
 <p float="left">
   <img src="/Utah_seasonal.png" width="350" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="/Missouri_seasonal.png" width="350" /> 
+  <img src="/NewMexico_seasonal.png" width="350" />
 </p>
