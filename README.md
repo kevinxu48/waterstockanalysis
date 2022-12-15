@@ -14,9 +14,9 @@ We attempt to highlight trends in water stock levels across the states of Missou
 
 The data for this project comes for the [United Stated Department of Agriculture Department of Agriculture National Agricultural Statistics Service](https://quickstats.nass.usda.gov/). The data is recorded in a csv where you have the the state, the given week, the given water stock level, and the percentage of water stock systems at the level for that given week within that state. An example is depicted below.
 
-
-<img src="/inital_df.png" width="600" />
-
+<p align="middle">
+  <img src="/inital_df.png" width="600" />
+</p>
 
 From here, we proceed with individual processing as relevant for each objective. 
 
