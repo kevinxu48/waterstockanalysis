@@ -23,7 +23,7 @@ When looking at the problem seasonally, we aim to capture the average percentage
 ### Results & Figures
 <p align="middle">
   <img src="/Utah_seasonal.png" width="400" />
-  <img src="/Missouri_seasonal.png" width="400" /> 
+  <img src="/Missouri_Seasonal_Redo.png" width="400" /> 
   <img src="/NewMexico_seasonal.png" width="400" />
   <img src="/NorthDakota_seasonal.png" width="400" />
   <img src="/Wyoming_seasonal.png" width="400" />
