@@ -15,7 +15,7 @@ We attempt to highlight trends in water stock levels across the states of Missou
 The data for this project comes for the [United Stated Department of Agriculture Department of Agriculture National Agricultural Statistics Service](https://quickstats.nass.usda.gov/). The data is recorded in a csv where you have the the state, the given week, the given water stock level, and the percentage of water stock systems at the level for that given week within that state. An example is depicted below.
 
 <p align="middle">
-  <img src="./inital_df.png" width="600" />
+  <img src="./inital_df.png" width="600">
 </p>
 
 From here, we proceed with individual processing as relevant for each objective. 
@@ -28,11 +28,11 @@ When looking at the problem seasonally, we aim to capture the average percentage
 
 ### Results & Figures
 <p align="middle">
-  <img src="./Utah_seasonal.png" width="400" />
-  <img src="./Missouri_Seasonal_Redo2.png" width="400" /> 
-  <img src="./NewMexico_seasonal.png" width="400" />
-  <img src="./NorthDakota_seasonal.png" width="400" />
-  <img src="./Wyoming_seasonal.png" width="400" />
+  <img src="./Utah_seasonal.png" width="400">
+  <img src="./Missouri_Seasonal_Redo2.png" width="400"> 
+  <img src="./NewMexico_seasonal.png" width="400">
+  <img src="./NorthDakota_seasonal.png" width="400">
+  <img src="./Wyoming_seasonal.png" width="400">
 </p>
 
 The most important thing to notice from this image is that regardless of season, most water stock systems are, on average, at an adequate level. However there is some fluctuation to be noted. 
