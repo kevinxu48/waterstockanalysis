@@ -51,7 +51,7 @@ For each state, we isolated the supply level percents for each week of the year 
 
 <code>
   ad_percents = []
-  
+  <br>
   for years in x:
   
     ad_percents.append(np.round(y_ad.loc[y_ad['Year']==years].sum(axis=0)['Percent Value']/
