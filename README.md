@@ -49,10 +49,14 @@ Next we looked at the average share of water stock levels per week for the past 
 
 For each state, we isolated the supply level percents for each week of the year and summed the results; we then divided this by 100 multiplied by the total number of weeks in that year. This would give us the average percentage of each supply level shared with the other supply levels for each year. For instance, to calculate the adequate supply level for New Mexico, we used the following code:
 
-<code>
+<pre>
+  <code>
   ad_percents = []
+  
+  for years in x:<br>  
+        ad_percents.append(np.round(y_ad.loc[y_ad['Year']==years].sum(axis=0)['Percent Value']/
+        df_nm.loc[df_nm['Year']==years].sum(axis=0)['Percent Value']*100,2))
+  </code>
+</pre>
 
-  for years in x:
 
-      ad_percents.append(np.round(y_ad.loc[y_ad['Year']==years].sum(axis=0)['Percent Value']/df_nm.loc[df_nm['Year']==years].sum(axis=0)['Percent Value']*100,2))
-</code>
