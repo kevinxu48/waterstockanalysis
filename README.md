@@ -69,7 +69,7 @@ For each state, we isolated the supply level percents for each week of the year 
   <img src="./WY_annual.png" width="400">
 </p>
 
-Apart from Missouri, there is a noticable decline in water supply in recent years for 4 of the 5 states. 2021 in particular saw very short annual water supplies relative to the other years.
+Apart from Missouri, there is a noticable decline in water supply in recent years for 4 of the 5 states. 2021 in particular saw very short annual water supplies relative to the other years. Interestingly, Missouri does not display the same trend of declining water supply, perhaps due to its more eastern geographic location compared to the other states examined. We later discuss potential causes for the recent water shortages.
 
 ## Most Common Weekly Levels
 
@@ -91,6 +91,7 @@ The dataset contains a weekly breakdown of each state’s waterstock level by pe
   <img src="./amCharts.png" width="400">
 </p>
 The data collected aligns with sources that claim many of these southwest and midwestern states are <a href="https://www.drought.gov/news/how-drought-prone-your-state-look-top-states-and-counties-drought-over-last-two-decades"> vulnerable to droughts and water shortage</a>, likely due to low flows and amounts in bodies of water, dry soils, lack of snow, higher evaporative losses, etc.
+<br>
 <br>
 Moreover, the primary belief is that <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018EF001091">population growth and climate change </a> are impacting precipitation levels globally. While 2022 may have seen higher levels of water than 2021, scientists hypothesize that the water crisis will only increase in severity with time, unless something fundamental is changed about American water usage.
 <br>
