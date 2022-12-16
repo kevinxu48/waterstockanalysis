@@ -40,3 +40,18 @@ The most important thing to notice from this image is that regardless of season,
 On a specific state level, we see that more of Utah's water stock systems are at short or super short during more extreme seasons like winter and summer at the cost of those at the amouunt at an adequate level going down. This also applies to North Dakota and Wyoming. For Missouri there is less of a change in percentages at given water stock levels across seasons. Though interestingly enough, we see that the surplus level increases past the short level in the summer, meaning that more water stock systems are at surplus during the summer in Missouri than are at short. Unfortunately, New Mexico seems to be at the greatest risk though, given that a greater portion of each season is at short/super short when compared to other states. But again, there is little fluctuation. 
 
 Overall, seasons can have an effect, but they do not seem to drastically change the rank order of the water stock levels.
+
+## Annual Percent Share
+
+Next we looked at the average share of water stock levels per week for the past 7 years. The original dataset does not contain the exact information, so to accomplish this we created new arrays to store the necessary information.
+
+### Average Annual Water Supply 
+
+For each state, we isolated the supply level percents for each week of the year and summed the results; we then divided this by 100 multiplied by the total number of weeks in that year. This would give us the average percentage of each supply level shared with the other supply levels for each year. For instance, to calculate the adequate supply level for New Mexico, we used the following code:
+<xmp>
+  ad_percents = []
+  for years in x:
+    ad_percents.append(np.round(y_ad.loc[y_ad['Year']==years].sum(axis=0)['Percent Value']/
+                          df_nm.loc[df_nm['Year']==years].sum(axis=0)['Percent Value']*100,2))
+
+</xmp>
