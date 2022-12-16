@@ -86,5 +86,13 @@ The dataset contains a weekly breakdown of each state’s waterstock level by pe
 </p>
 
 ## Causes of Water Shortages
-<a href="https://www.nationalgeographic.com/science/article/partner-content-americas-looming-water-crisis">America is running out of water</a>
+<a href="https://www.nationalgeographic.com/science/article/partner-content-americas-looming-water-crisis">America is running out of water</a>. The image below shows the states included in our data, which are all located in south and midwestern United States.
+<p align="middle">
+  <img src="./amCharts.png" width="400">
+</p>
+The data collected aligns with sources that claim many of these southwest and midwestern states are <a href="https://www.drought.gov/news/how-drought-prone-your-state-look-top-states-and-counties-drought-over-last-two-decades"> vulnerable to droughts and water shortage</a>, likely due to low flows and amounts in bodies of water, dry soils, lack of snow, higher evaporative losses, etc.
+<br>
+Moreover, the primary belief is that <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018EF001091">population growth and climate change </a> are impacting precipitation levels globally. While 2022 may have seen higher levels of water than 2021, scientists hypothesize that the water crisis will only increase in severity with time, unless something fundamental is changed about American water usage.
+<br>
+<br>
 
