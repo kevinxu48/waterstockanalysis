@@ -60,3 +60,16 @@ For each state, we isolated the supply level percents for each week of the year 
 </pre>
 
 
+
+
+
+## Most Common Weekly Levels
+
+The dataset contains a weekly breakdown of each state’s waterstock level by percentage. The data in the charts reflects the level with the highest percentage for each week. 
+
+### Results and Figures
+
+<p align="middle">
+  <img src="./UT - Most Common Level - 2015-2022.jpg" width="400">
+</p>
+
