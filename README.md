@@ -59,13 +59,21 @@ For each state, we isolated the supply level percents for each week of the year 
   </code>
 </pre>
 
+### Results and Figures
 
+<p align="middle">
+  <img src="./UT_annual.png" width="400">
+  <img src="./MO_annual.png" width="400"> 
+  <img src="./NM_annual.png" width="400">
+  <img src="./ND_annual.png" width="400">
+  <img src="./WY_annual.png" width="400">
+</p>
 
-
+Apart from Missouri, there is a noticable decline in water supply in recent years for 4 of the 5 states. 2021 in particular saw very short annual water supplies relative to the other years.
 
 ## Most Common Weekly Levels
 
-The dataset contains a weekly breakdown of each state’s waterstock level by percentage. The data in the charts reflects the level with the highest percentage for each week. This is useful for a general comparison of each state and the health of their waterstock levels on an annual basis. 
+The dataset contains a weekly breakdown of each state’s waterstock level by percentage. The data in the charts reflects the level with the highest percentage for each week. 
 
 ### Results and Figures
 
@@ -77,4 +85,6 @@ The dataset contains a weekly breakdown of each state’s waterstock level by pe
   <img src="./WY - Most Common Level - 2015-2022.jpg" width="400">
 </p>
 
-Missouri has the most consistent water stock levels, as they did not record a single week where "adequate" was not the highest level. North Dakota had one of the most severe shortages in 2021, where "very short" was the highest level for over 60% of weeks in the year. The trends in the data suggest that prior to 2018, the majority of farms across each state had adequate amounts of water for their livestock. The majority of the problems for farms have come in the last four years, with all states except for Missouri having higher occurences of farms recording "short" or "very short" levels. Although many farms in each state had occurences of surpluses, "surplus" was never the level with th maximium number of occurences in a given week.
+## Causes of Water Shortages
+<a href="https://www.nationalgeographic.com/science/article/partner-content-americas-looming-water-crisis">America is running out of water</a>
+
