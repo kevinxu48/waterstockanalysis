@@ -71,7 +71,7 @@ The dataset contains a weekly breakdown of each state’s waterstock level by pe
 
 <p align="middle">
   <img src="./UT - Most Common Level - 2015-2022.jpg" width="400">
-  <img src="./MO - Most Common Level - 2015-2022.jpg" width="400">
+  <img src="./MO - Most Common Level -2015-2022.jpg" width="400">
   <img src="./NM - Most Common Level - 2015-2022.jpg" width="400">
   <img src="./ND - Most Common Level - 2015-2022.jpg" width="400">
   <img src="./WY - Most Common Level - 2015-2022.jpg" width="400">
