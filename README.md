@@ -85,6 +85,9 @@ The dataset contains a weekly breakdown of each state’s waterstock level by pe
   <img src="./WY - Most Common Level - 2015-2022.jpg" width="400">
 </p>
 
+Missouri has the most consistent water stock levels, as they did not record a single week where "adequate" was not the highest level. North Dakota had one of the most severe shortages in 2021, where "very short" was the highest level for over 60% of weeks in the year. The trends in the data suggest that prior to 2018, the majority of farms across each state had adequate amounts of water for their livestock. The majority of the problems for farms have come in the last four years, with all states except for Missouri having higher occurrences of farms recording "short" or "very short" levels. Although many farms in each state had occurrences of surpluses, "surplus" was never the level with the maximum number of occurrences in a given week.
+
+
 ## Causes of Water Shortages
 <a href="https://www.nationalgeographic.com/science/article/partner-content-americas-looming-water-crisis">America is running out of water</a>. The image below shows the states included in our data, which are all located in south and midwestern United States.
 <p align="middle">
@@ -97,3 +100,9 @@ Moreover, the primary belief is that <a href="https://agupubs.onlinelibrary.wile
 <br>
 <br>
 
+
+## Impact
+
+Water intake is very <a href="https://www.ksvdl.org/laboratories/toxicology/Livestock-Water-Quality-Ensley-2020-web.pdf"> crucial for livestock </a>, and limited water levels can result in poor animal performance, stress, and dehydration. Most domesticated animals can survive for close to sixty days without food, but only seven days without water. Cows specifically can drink three to five gallons of water per minute. Missouri and North Dakota are in the top fifteen states with the most cattle, and the availability of water to the animals is crucial to their health.
+
+The raising of cattle accounts for 23% of all water consumption in the United States, primarily because of the water required to grow crops that feed the cattle. Many lakes and rivers in the Colorado river basin have dried up, and much of this decline can be attributed to cattle-feed irrigation like alfalfa and grass hay. Although this problem will likely continue to grow,<a href="https://www.nature.com/articles/s41893-020-0483-z)"> research </a> suggests that temporarily fallowing the farmland, or not growing anything on it for an extended period of time, can markedly reduce water shortage risks.
